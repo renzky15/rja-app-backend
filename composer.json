@@ -1,0 +1,7 @@
+{
+    "name": "renz/rja-app-backend",
+    "description": "POS Inventory API",
+    "license": "MIT",
+    "minimum-stability": "beta",
+    "require": {}
+}
