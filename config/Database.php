@@ -1,10 +1,10 @@
 <?php
     class Database {
-        private $host = 'localhost:3308';
-        private $db_name = 'db_rja';
-        private $username = 'root';
-        private $db_port = 3308;
-        private $password = '';
+        private $host = 'us-cdbr-iron-east-01.cleardb.net';
+        private $db_name = 'heroku_1834801e7b0005f';
+        private $username = 'b5163eabc6045a';
+        private $db_port = 3306;
+        private $password = '977db3d9';
         private $conn;
 
         public function connect() {
